@@ -17,7 +17,7 @@ X Education wants to select the most promising leads, i.e. the leads that are mo
 Solution:
 For this case study we're going to use several classification model to predict whether the lead is going to quantify as a hot lead. The steps involved for this case study are mentioned below:
 
-1.Data Loading
+1.Data Loading \n
 2.Data Exploration a.k.a Exploratory Data Analysis
 3.Preprocessing
 4.Feature Engineering
